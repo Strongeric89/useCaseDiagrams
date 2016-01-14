@@ -1,0 +1,9 @@
+Description for Task 2. lab 12
+
+1. Waiter asks client to order food. if customer wants food then offer the wine menu.
+2.The chef confirms order with waiter and cooks food
+3.if wine was ordered it is served
+4.waiter serves food to client
+5.client eats food
+7.waiter facilitates payment for the food with client
+8.client pays for wine(if order) and food.
